@@ -64,7 +64,7 @@ Make sure the `activity.csv` file is in the correct format and located in the sp
 
 ## Author
 
-[Your Name]
+Mario
 
 ## License
 
